@@ -21,6 +21,6 @@ Lancez le script, coller l'url et voila c'est fini!
 
 Faut juste télécharger avant youtube-dl à l'aide de cescommandes:  
 
-	`sudo wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl` 
-	`sudo chmod a+x /usr/local/bin/youtube-dl`
-	`hash -r`
+	sudo wget https://yt-dl.org/latest/youtube-dl -O /usr/local/bin/youtube-dl 
+	sudo chmod a+x /usr/local/bin/youtube-dl
+	hash -r
